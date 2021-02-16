@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/STUA-MOVIE-APP/static/css/main.51c6ff60.chunk.css",
+    "main.js": "/STUA-MOVIE-APP/static/js/main.a2c6aa14.chunk.js",
+    "main.js.map": "/STUA-MOVIE-APP/static/js/main.a2c6aa14.chunk.js.map",
+    "runtime-main.js": "/STUA-MOVIE-APP/static/js/runtime-main.c3823ecc.js",
+    "runtime-main.js.map": "/STUA-MOVIE-APP/static/js/runtime-main.c3823ecc.js.map",
+    "static/js/2.8df6e189.chunk.js": "/STUA-MOVIE-APP/static/js/2.8df6e189.chunk.js",
+    "static/js/2.8df6e189.chunk.js.map": "/STUA-MOVIE-APP/static/js/2.8df6e189.chunk.js.map",
+    "index.html": "/STUA-MOVIE-APP/index.html",
+    "precache-manifest.2e55a9b251ff8300001239ae6e534357.js": "/STUA-MOVIE-APP/precache-manifest.2e55a9b251ff8300001239ae6e534357.js",
+    "service-worker.js": "/STUA-MOVIE-APP/service-worker.js",
+    "static/css/main.51c6ff60.chunk.css.map": "/STUA-MOVIE-APP/static/css/main.51c6ff60.chunk.css.map",
+    "static/js/2.8df6e189.chunk.js.LICENSE.txt": "/STUA-MOVIE-APP/static/js/2.8df6e189.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3823ecc.js",
+    "static/js/2.8df6e189.chunk.js",
+    "static/css/main.51c6ff60.chunk.css",
+    "static/js/main.a2c6aa14.chunk.js"
+  ]
+}
