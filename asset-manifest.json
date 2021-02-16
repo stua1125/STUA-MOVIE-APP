@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/STUA-MOVIE-APP/static/css/main.51c6ff60.chunk.css",
-    "main.js": "/STUA-MOVIE-APP/static/js/main.aec2d0d4.chunk.js",
-    "main.js.map": "/STUA-MOVIE-APP/static/js/main.aec2d0d4.chunk.js.map",
-    "runtime-main.js": "/STUA-MOVIE-APP/static/js/runtime-main.c3823ecc.js",
-    "runtime-main.js.map": "/STUA-MOVIE-APP/static/js/runtime-main.c3823ecc.js.map",
-    "static/js/2.8df6e189.chunk.js": "/STUA-MOVIE-APP/static/js/2.8df6e189.chunk.js",
-    "static/js/2.8df6e189.chunk.js.map": "/STUA-MOVIE-APP/static/js/2.8df6e189.chunk.js.map",
+    "main.js": "/STUA-MOVIE-APP/static/js/main.af6abf67.chunk.js",
+    "main.js.map": "/STUA-MOVIE-APP/static/js/main.af6abf67.chunk.js.map",
+    "runtime-main.js": "/STUA-MOVIE-APP/static/js/runtime-main.b522a6b9.js",
+    "runtime-main.js.map": "/STUA-MOVIE-APP/static/js/runtime-main.b522a6b9.js.map",
+    "static/js/2.dc4d9ae7.chunk.js": "/STUA-MOVIE-APP/static/js/2.dc4d9ae7.chunk.js",
+    "static/js/2.dc4d9ae7.chunk.js.map": "/STUA-MOVIE-APP/static/js/2.dc4d9ae7.chunk.js.map",
     "index.html": "/STUA-MOVIE-APP/index.html",
-    "precache-manifest.e9997e73af64c83d1f26d710ca350011.js": "/STUA-MOVIE-APP/precache-manifest.e9997e73af64c83d1f26d710ca350011.js",
+    "precache-manifest.6bd60b6bf6316e8116e1108b9a9c2f7e.js": "/STUA-MOVIE-APP/precache-manifest.6bd60b6bf6316e8116e1108b9a9c2f7e.js",
     "service-worker.js": "/STUA-MOVIE-APP/service-worker.js",
     "static/css/main.51c6ff60.chunk.css.map": "/STUA-MOVIE-APP/static/css/main.51c6ff60.chunk.css.map",
-    "static/js/2.8df6e189.chunk.js.LICENSE.txt": "/STUA-MOVIE-APP/static/js/2.8df6e189.chunk.js.LICENSE.txt"
+    "static/js/2.dc4d9ae7.chunk.js.LICENSE.txt": "/STUA-MOVIE-APP/static/js/2.dc4d9ae7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3823ecc.js",
-    "static/js/2.8df6e189.chunk.js",
+    "static/js/runtime-main.b522a6b9.js",
+    "static/js/2.dc4d9ae7.chunk.js",
     "static/css/main.51c6ff60.chunk.css",
-    "static/js/main.aec2d0d4.chunk.js"
+    "static/js/main.af6abf67.chunk.js"
   ]
 }

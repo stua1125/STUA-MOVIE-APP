@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/STUA-MOVIE-APP/precache-manifest.e9997e73af64c83d1f26d710ca350011.js"
+  "/STUA-MOVIE-APP/precache-manifest.6bd60b6bf6316e8116e1108b9a9c2f7e.js"
 );
 
 self.addEventListener('message', (event) => {
