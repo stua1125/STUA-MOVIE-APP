@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stua92/STUA-MOVIE-APP/static/css/main.51c6ff60.chunk.css",
-    "main.js": "/stua92/STUA-MOVIE-APP/static/js/main.a2c6aa14.chunk.js",
-    "main.js.map": "/stua92/STUA-MOVIE-APP/static/js/main.a2c6aa14.chunk.js.map",
+    "main.js": "/stua92/STUA-MOVIE-APP/static/js/main.aec2d0d4.chunk.js",
+    "main.js.map": "/stua92/STUA-MOVIE-APP/static/js/main.aec2d0d4.chunk.js.map",
     "runtime-main.js": "/stua92/STUA-MOVIE-APP/static/js/runtime-main.26ed0003.js",
     "runtime-main.js.map": "/stua92/STUA-MOVIE-APP/static/js/runtime-main.26ed0003.js.map",
     "static/js/2.8df6e189.chunk.js": "/stua92/STUA-MOVIE-APP/static/js/2.8df6e189.chunk.js",
     "static/js/2.8df6e189.chunk.js.map": "/stua92/STUA-MOVIE-APP/static/js/2.8df6e189.chunk.js.map",
     "index.html": "/stua92/STUA-MOVIE-APP/index.html",
-    "precache-manifest.6e2c08317ed3f55ffe5683ccf697c1fc.js": "/stua92/STUA-MOVIE-APP/precache-manifest.6e2c08317ed3f55ffe5683ccf697c1fc.js",
+    "precache-manifest.c160050681a6c86d3b37ec1e9f53552b.js": "/stua92/STUA-MOVIE-APP/precache-manifest.c160050681a6c86d3b37ec1e9f53552b.js",
     "service-worker.js": "/stua92/STUA-MOVIE-APP/service-worker.js",
     "static/css/main.51c6ff60.chunk.css.map": "/stua92/STUA-MOVIE-APP/static/css/main.51c6ff60.chunk.css.map",
     "static/js/2.8df6e189.chunk.js.LICENSE.txt": "/stua92/STUA-MOVIE-APP/static/js/2.8df6e189.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.26ed0003.js",
     "static/js/2.8df6e189.chunk.js",
     "static/css/main.51c6ff60.chunk.css",
-    "static/js/main.a2c6aa14.chunk.js"
+    "static/js/main.aec2d0d4.chunk.js"
   ]
 }
